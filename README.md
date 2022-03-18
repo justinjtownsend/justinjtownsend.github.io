@@ -9,4 +9,4 @@ Code is provided 'as-is' and is not actively maintained.
 ## Opinions on Project Management (PM)
 Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be subdued lest they affect the teams' productivity:
 
-- dealing with REAL absence
+- dealing with absence in capacity managment / planning
