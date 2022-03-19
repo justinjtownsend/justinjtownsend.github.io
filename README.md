@@ -7,6 +7,7 @@ To the extent these solutions are derived from my own experiences, they are opin
 Code is provided 'as-is' and is not actively maintained.
 
 ## Opinions on Project Management (PM)
-Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be subdued lest they affect the teams' productivity:
+Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be subdued lest they affect team productivity:
 
 - dealing with absence in capacity managment / planning
+- 
