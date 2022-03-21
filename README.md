@@ -9,7 +9,7 @@ Code in this repo is provided 'as-is' and is not actively maintained.
 ## Opinions on Project Management (PM, pm-utilities)
 Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be subdued lest they affect team productivity:
 
-- dealing with absence in capacity managment / planning ([ics-event-stream.vb](https://github.com/justinjtownsend/justinjtownsend.github.io/blob/ce8710cb8c48557d03bbf7d37cd3518fc55ece4c/pm-utilities/ics-event-stream.vb))
+- dealing with absence in capacity managment / planning ([ics-event-stream.vb](pm-utilities/ics-event-stream.vb))
 - 
 
 ## Other areas
