@@ -6,7 +6,7 @@ To the extent these solutions are derived from my own experiences, they are opin
 ## Opinions on Project Management (PM, pm-utilities)
 Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be subdued lest they affect team productivity:
 
-- dealing with absence in capacity managment / planning [ics-event-stream.vb](pm-utilities/ics-event-stream.vb)
+- dealing with absence in capacity managment / planning ([ics-event-stream.vb](pm-utilities/ics-event-stream.vb))
 - ...
 
 ## Other areas
