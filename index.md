@@ -1,37 +1,14 @@
-## Welcome to My GitHub Pages
+# Welcome to justinjtownsend.github.io
+Items you find in here have largely come from my experience, but they were / are real-world challenges needing some automation / coding to resolve.
 
-You can use the [editor on GitHub](https://github.com/justinjtownsend/justinjtownsend.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+To the extent these solutions are derived from my own experiences, they are opinionated. Nevertheless, they were tested and working at the time of their use and so I share them here that they inspire the thinking of others.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Code in this repo is provided 'as-is' and is not actively maintained.
 
-### Markdown
+## Opinions on Project Management (PM, pm-utilities)
+Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be subdued lest they affect team productivity:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- dealing with absence in capacity managment / planning [ics-event-stream.vb](pm-utilities/ics-event-stream.vb)
+- ...
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justinjtownsend/justinjtownsend.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Other areas
