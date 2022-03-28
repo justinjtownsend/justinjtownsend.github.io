@@ -6,7 +6,7 @@ To the extent these solutions are derived from my own experiences, they are opin
 ## Opinions on Project Management (PM, [pm-utilities](pm-utilities))
 Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be dealt with efficiently should they affect productivity and deadlines:
 
-- people take time-off, global projects are affected by different public holiday schedules and team members have training days and other legitimate absence, so efficiently dealing with change in project capacity is important. Most calendars are published as event streams, so understanding how to process these is a helpful skill ([ics-event-stream.vb](pm-utilities/ics-event-stream.vb)
+- people take time-off, global projects are affected by different public holiday schedules and team members have training days and other legitimate absence, so efficiently dealing with change in project capacity is important. Most calendars are published as event streams, so understanding how to process these is a helpful skill ([ics-event-stream.vb](pm-utilities/ics-event-stream.vb))
 - ...
 
 ## Other areas
