@@ -3,7 +3,7 @@ Items you find in here have largely come from my experience, but they were / are
 
 To the extent these solutions are derived from my own experiences, they are opinionated. Nevertheless, they were tested and working at the time of their use and so I share them here that they inspire the thinking of others. Code in this repo is provided 'as-is' and is not actively maintained.
 
-## Opinions on Project Management (PM, [pm-utilities](/pm-utilities))
+## Opinions on Project Management (PM, [pm-utilities](https://github.com/justinjtownsend/justinjtownsend.github.io/tree/main/pm-utilities))
 Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be dealt with efficiently in case they affect productivity and deadlines:
 
 - people take time-off, global projects are affected by different public holiday schedules and team members have training days and other legitimate absence, so efficiently dealing with change in project capacity is important. Most calendars are published as event streams, so understanding how to process these is a helpful skill ([ics-event-stream.vb](pm-utilities/ics-event-stream.vb))
