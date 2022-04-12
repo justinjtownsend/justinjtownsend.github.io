@@ -11,4 +11,6 @@ google_analytics: G-NBN6DDWEZP
 author:            Justin Townsend
 linkedin_username: justin-j-townsend
 
-baseurl: /justinjtownsend.github.io
+collections:
+  pm_utilities:
+    output: true
