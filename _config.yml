@@ -11,6 +11,6 @@ google_analytics: G-NBN6DDWEZP
 author:            Justin Townsend
 linkedin_username: justin-j-townsend
 
-# collections:
-#  pm_utilities:
+ collections:
+  - pm_utilities:
 #    output: true
