@@ -14,5 +14,6 @@ linkedin_username: justin-j-townsend
  collections:
   pm-utilities:
    output: true
+   permalink: /pm-utilities/:name
   path-animations:
    output: true
