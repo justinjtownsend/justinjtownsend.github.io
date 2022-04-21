@@ -12,6 +12,7 @@ author:            Justin Townsend
 linkedin_username: justin-j-townsend
 
  collections:
-  - pm_utilities
-  - path-animations
-#    output: true
+  pm_utilities:
+   output: true
+  path-animations:
+   output: true
