@@ -3,9 +3,6 @@ Items you find in here have largely come from my experience, but they were / are
 
 To the extent these solutions are derived from my own experiences, they are opinionated. Nevertheless, they were tested and working at the time of their use and so I share them here that they inspire the thinking of others. Code in this repo is provided 'as-is' and is not actively maintained.
 
-## Opinions on Project Management (PM, [pm-utilities](https://github.com/justinjtownsend/justinjtownsend.github.io/tree/main/pm-utilities))
-Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be dealt with efficiently in case they affect productivity and deadlines:
-
 - ...
 
 ## Other areas
