@@ -17,4 +17,5 @@ collections:
    output: true
    permalink: /pm-utilities/:name
   path-animations:
+   title: "Path Animations"
    output: true
