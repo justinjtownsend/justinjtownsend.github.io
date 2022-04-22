@@ -13,6 +13,7 @@ linkedin_username: justin-j-townsend
 
 collections: 
   pmutilities:
+   title: "Opinions on Project Management"
    output: true
    permalink: /pm-utilities/:name
   path-animations:
