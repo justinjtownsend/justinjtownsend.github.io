@@ -1,10 +1,10 @@
 ---
 layout: default
-name: Jane Doe
+title: Jane Doe
 position: Developer
 ---
 
-## Opinions on Project Management (PM, [pm-utilities](https://github.com/justinjtownsend/justinjtownsend.github.io/tree/main/pm-utilities))
+## Opinions on Project Management
 Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be dealt with efficiently in case they affect productivity and deadlines:
 
 - people take time-off, global projects are affected by different public holiday schedules and team members have training days and other legitimate absence, so efficiently dealing with change in project capacity is important. Most calendars are published as event streams, so understanding how to process these is a helpful skill ([ics-event-stream.vb](ics-event-stream.vb))
