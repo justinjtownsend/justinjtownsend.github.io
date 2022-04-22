@@ -10,3 +10,13 @@ Despite what leading PM software vendors would have you believe, there are short
 - ...
 
 ## Other areas
+List collections test
+
+{% for collection in site.collections %}
+  <h2>Items from {{ collection.label }}</h2>
+  <ul>
+    {% for item in site[collection.label] %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
