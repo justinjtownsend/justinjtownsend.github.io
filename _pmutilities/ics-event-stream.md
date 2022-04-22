@@ -1,5 +1,7 @@
 ---
 layout: default
+name: Jane Doe
+position: Developer
 ---
 
 ## Opinions on Project Management (PM, [pm-utilities](https://github.com/justinjtownsend/justinjtownsend.github.io/tree/main/pm-utilities))
