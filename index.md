@@ -10,7 +10,7 @@ Simple use of...
   <h2>Items from {{ collection.title }}</h2>
   <ul>
     {% for item in site[collection.label] %}
-      <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
