@@ -7,7 +7,7 @@ To the extent these solutions are derived from my own experiences, they are opin
 Simple use of...
 
 {% for collection in site.collections %}
-  <h2>Items from {{ collection.label }}</h2>
+  <h2>Items from {{ collection.title }}</h2>
   <ul>
     {% for item in site[collection.label] %}
       <li><a href="{{ item.url }}">{{ item.name }}</a></li>
