@@ -1,5 +1,5 @@
 # Welcome to justinjtownsend.github.io
-Items you find in here have largely come from my experience, but they were / are real-world challenges needing some automation / coding to resolve.
+Items you find in here have largely come from my experience, but they were / are real-world challenges needing some automation / coding to resolve. Technical skills are increasingly important for programme / project managers and reliance on others is not always possible, in small / lean organisationa especially (e.g. startups, hedge funds).
 
 To the extent these solutions are derived from my own experiences, they are opinionated. Nevertheless, they were tested and working at the time of their use and so I share them here that they inspire the thinking of others. Code in this repo is provided 'as-is' and is not actively maintained.
 
