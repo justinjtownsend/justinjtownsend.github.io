@@ -4,7 +4,7 @@ Items you find in here have largely come from my experience, but they were / are
 To the extent these solutions are derived from my own experiences, they are opinionated. Nevertheless, they were tested and working at the time of their use and so I share them here that they inspire the thinking of others. Code in this repo is provided 'as-is' and is not actively maintained.
 
 ## Collections List
-TEST...
+Simple use of...
 
 {% for collection in site.collections %}
   <h2>Items from {{ collection.label }}</h2>
