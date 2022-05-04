@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jane Doe
-position: Developer
+title: Opinions on Project Management
+position: Project / Programme Mgt
 ---
 
 ## Opinions on Project Management
