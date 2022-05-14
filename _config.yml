@@ -11,6 +11,12 @@ google_analytics: G-NBN6DDWEZP
 author:            Justin Townsend
 linkedin_username: justin-j-townsend
 
+defaults:
+  - scope:
+      path: "samples/"
+    values:
+      samplecode: true
+
 collections: 
   pmutilities:
    title: "Opinions on Project Management"
