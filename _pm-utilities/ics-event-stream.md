@@ -9,6 +9,6 @@ Despite what leading PM software vendors would have you believe, there are short
 
 - teams members take time-off for various legitimate reasons and global projects are affected by varying public holiday schedules, so efficiently dealing with change in project capacity is important for sound tactical and strategic choices. Most calendars are published as event streams, so understanding how to aggregate these efficiently is a useful skill in capacity management.
 
-Here I use Visual Basic, why? Because Excel has a user community of ~750 million users and it's great for adding up those 'non-working' days [ics-event-stream.vb]({% link /assets/samples/ics-event-stream.vb %})
+   Here I use Visual Basic, why? Because Excel has a user community of ~750 million users and it's great for adding up those 'non-working' days [ics-event-stream.vb]({% link /assets/samples/ics-event-stream.vb %})
 
 - JIRA, :-)
