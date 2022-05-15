@@ -1,5 +1,5 @@
 # Welcome to justinjtownsend.github.io
-Items on here have come from situations in my own work, but they are real-world challenges needing a coding approach to resolve. This set of pages takes a pracitioner perspectives because... *something from George Bernard Shaw*
+Items on here have come from situations in my own work, but they are real-world challenges needing a coding approach to resolve. This set of pages takes a pracitioner perspectives because... *some famous quote from George Bernard Shaw*
 
 Technical skills are increasingly important for productivity and reliance on others is not always possible. This is especially true in lean (small) organisations (hedge funds, startups, charities, etc.).
 
