@@ -18,7 +18,7 @@ defaults:
       samplecode: true
 
 collections: 
-  pmutilities:
+  pm-utilities:
    title: "Opinions on Project Management"
    output: true
    permalink: /pm-utilities/:name
