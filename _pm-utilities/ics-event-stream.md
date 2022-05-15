@@ -5,11 +5,7 @@ topic: Project / Programme Mgt
 ---
 
 ## Project Management
-Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent annoyances should be dealt with efficiently in case they affect productivity and deadlines:
+Despite what leading PM software vendors would have you believe, there are short-comings in most of these tools. Persistent drags on productivity should be dealt with efficiently in case they affect deadlines:
 
-- people take time-off, global projects are affected by different public holiday schedules and team members have training days and other legitimate absence, so efficiently dealing with change in project capacity is important. Most calendars are published as event streams, so understanding how to process these is a helpful skill [ics-event-stream.vb]({% link /assets/samples/ics-event-stream.vb %})
-
-{% assign samplecode_files = site.static_files | where: "samplecode", true %}
-{% for mycode in samplecode_files %}
-  {{ mycode.path %}}
-{% endfor %}
+- teams members take time-off for various legitimate reasons and global projects are affected by varying public holiday schedules, so efficiently dealing with change in project capacity is important. Most calendars are published as event streams, so understanding how to process these for efficient aggregation is a helpful skill in capacity planning. Here I use Visual Basic, why? Because Excel has a user community of ~750 million users and it's great for adding up those 'non-working' days [ics-event-stream.vb]({% link /assets/samples/ics-event-stream.vb %})
+- JIRA, :-)
