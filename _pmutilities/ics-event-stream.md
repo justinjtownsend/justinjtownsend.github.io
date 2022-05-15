@@ -11,5 +11,5 @@ Despite what leading PM software vendors would have you believe, there are short
 
 {% assign samplecode_files = site.static_files | where: "samplecode", true %}
 {% for mycode in samplecode_files %}
-  {{ mycode.path }}
+  {% link {{ mycode.path }} %}
 {% endfor %}
