@@ -21,7 +21,7 @@ defaults:
 
 collections:
   file-utilities:
-    title: "FileManagement"
+    title: "File Management"
     output: true
     permalink: /file-utilities/:name
   pm-utilities:
