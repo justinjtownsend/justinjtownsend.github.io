@@ -20,6 +20,10 @@ defaults:
       samplecode: true
 
 collections:
+  file-utilities:
+    title: "FileManagement"
+    output: true
+    permalink: /file-utilities/:name
   pm-utilities:
     title: "Views on Project Management"
     output: true
