@@ -3,6 +3,9 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have onetheme: jekyll-theme-tactile
   - jemoji
 
+kramdown:
+  input: Kramdown
+
 # Name of website
 title:
 description:
@@ -28,7 +31,7 @@ collections:
     title: "Views on Project Management"
     output: true
     permalink: /pm-utilities/:name
-  path-animations:
-    title: "Path Animations"
-    output: true
+# path-animations:
+#    title: "Path Animations"
+#    output: true
 # Other
