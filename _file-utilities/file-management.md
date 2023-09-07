@@ -14,4 +14,5 @@ Executives rightly continue to have a preference for communicating their message
   - [convert-pdf-acrobat.ps1]({% link /assets/samples/convert-pdf-acrobat.ps1 %})
   - [convert-pdf-nuance.ps1]({% link /assets/samples/convert-pdf-nuance.ps1 %})
 
-- image organisation
+- a symptom of the proliferation of digital cameras and image formats is the varied means of transfer and naming file-naming conventions, this script represents an (incomplete) approach to organising images based on the date the photo was shot and takes advantage of [Hugsan's EXIFUtils](http://www.hugsan.com/EXIFutils/)
+  - [organize-photos-exifutils.ps1]({% link /assets/samples/organize-photos-exifutils.ps1 %})
