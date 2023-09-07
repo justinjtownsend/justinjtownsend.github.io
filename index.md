@@ -17,3 +17,5 @@ Thank you to GitHub, Jekyll, Ruby and Liquid with you I could not keep on top of
     {% endfor %}
   </ul>
 {% endfor %}
+
+At one stage I wrote a Blogger site, see [here](https://dr-obi.blogspot.com/), but have found the GitHub pages approach to be more direct for my purposes. :-)
