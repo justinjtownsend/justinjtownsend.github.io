@@ -31,6 +31,10 @@ collections:
     title: "Views on Project Management"
     output: true
     permalink: /pm-utilities/:name
+  software-engineering:
+    title: "Software Engineering Projects"
+    output: true
+    permalnk: /software-engineering/:name
 # path-animations:
 #    title: "Path Animations"
 #    output: true
