@@ -20,4 +20,4 @@ Thank you to GitHub, Jekyll, Ruby and Liquid with you I could not keep on top of
 
 At one stage I wrote a Blogger site, see [here](https://dr-obi.blogspot.com/), but have found the GitHub pages approach to be more direct for my purposes. :-)
 
-<script src="https://gist.github.com/justinjtownsend/8c7175222118e2eec6a839de82c2957c.js"></script>
+{% gist 8c7175222118e2eec6a839de82c2957c %}
