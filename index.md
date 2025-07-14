@@ -19,5 +19,3 @@ Thank you to GitHub, Jekyll, Ruby and Liquid with you I could not keep on top of
 {% endfor %}
 
 At one stage I wrote a Blogger site, see [here](https://dr-obi.blogspot.com/), but have found the GitHub pages approach to be more direct for my purposes. :-)
-
-{% gist 8c7175222118e2eec6a839de82c2957c %}
